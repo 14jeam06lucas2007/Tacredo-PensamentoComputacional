@@ -1,6 +1,8 @@
 body{
+     background-color: #00B4D8;
+}
+main {
     text-align: center;
-    background-color: #00B4D8;
 }
 
 #slogan{
@@ -9,4 +11,10 @@ body{
 .capa{
      width: 70%;
      height: 100%;
+}
+.beneficio{
+    background-color:  #3A86FF;
+}
+.foto-beneficio{
+    width:40% ;
 }
