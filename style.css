@@ -14,7 +14,21 @@ main {
 }
 .beneficio{
     background-color:  #3A86FF;
+    display: inline-block;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+
+}
+li{
+    padding: 10px;
+    margin: 10px;
+}
+
 .foto-beneficio{
-    width:40% ;
+    width:30% ;
+    text-align: right;
+    padding: 10px;
 }
