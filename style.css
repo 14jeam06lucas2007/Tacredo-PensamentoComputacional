@@ -5,30 +5,40 @@ main {
     text-align: center;
 }
 
+.capa{
+    width: 70%;
+    height: 100%;
+}
+.conteudo{
+    background-color: rgb(4, 50, 90);
+    font-family: sans-serif;
+}
+
 #slogan{
     font-size: 25px;
 }
-.capa{
-     width: 70%;
-     height: 100%;
-}
+
 .beneficio{
     background-color:  #3A86FF;
-    display: inline-block;
+    
+
 }
+
 ul{
     display: inline-block;
     vertical-align: top;
     padding: 10px;
-
+    font-size: 20px;
+    margin-right: 300px;
 }
+
 li{
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
 }
 
 .foto-beneficio{
-    width:30% ;
+    width: 40% ;
     text-align: right;
     padding: 10px;
 }
